@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">
+Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated" height="45" width="45"/> My name's Beshoy, I'm from Egypt
+</h1>
+
 
 <!--
 **FrontEndDevo/FrontEndDevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
