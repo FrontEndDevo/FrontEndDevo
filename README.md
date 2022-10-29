@@ -15,7 +15,7 @@ HTML5
 </p>
 
 <h2>🌟🎯💡 Skills I'm working on now</h2>
-<p align="center">Pugjs && Gulpjs</p>
+<p align="center">Pugjs && Gulpjs && Unit Testing (jest)</p>
 
 <!--
 **FrontEndDevo/FrontEndDevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
