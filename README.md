@@ -7,11 +7,14 @@ Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.g
 HTML5
 & CSS3
 & SASS (SCSS)
-& Bootstrap 
-& Tailwindcss
+& Bootstrap5
+& TailwindCSS3
 & Javascript 
 & Typescript
-& Reactjs
+& ReactJS
+& React Redux && Redux toolkit
+& React Router (v5 & v6)
+& NextJS
 </p>
 
 <h2>🌟🎯💡 Skills I'm working on now</h2>
