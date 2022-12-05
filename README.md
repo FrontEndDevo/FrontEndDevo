@@ -21,7 +21,7 @@ HTML5
 <p align="center">Pugjs && Gulpjs && Unit Testing (jest)</p>
 
 <h2>CERTIFICATIONS 🎖️🏆👨</h2>
-<a href="https://ude.my/UC-7cf400fe-c389-4647-a04d-2ee1ef067562"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt=""></a>
+<a align ="center" href="https://ude.my/UC-7cf400fe-c389-4647-a04d-2ee1ef067562" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 
 
 <!--
