@@ -23,6 +23,8 @@ HTML5
 <h2>CERTIFICATIONS 🎖️🏆👨</h2>
 ![React](https://ude.my/UC-7cf400fe-c389-4647-a04d-2ee1ef067562)
 
+<a href="https://ude.my/UC-7cf400fe-c389-4647-a04d-2ee1ef067562"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt=""></a>
+
 
 <!--
 **FrontEndDevo/FrontEndDevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
