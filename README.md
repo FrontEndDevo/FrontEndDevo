@@ -21,8 +21,8 @@ HTML5
 <p align="center">Pugjs && Gulpjs && Unit Testing (jest)</p>
 
 <h2>CERTIFICATIONS 🎖️🏆👨</h2>
-<p align="center"><a href="https://ude.my/UC-7cf400fe-c389-4647-a04d-2ee1ef067562" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></p>
-<p align="center"><a href="https://www.linkpicture.com/q/ITI-certification.jpg" target="_blank"><img src="https://img.shields.io/badge/MEAN_stack-%2320232a.svg?style=for-the-badge&logo=web&logoColor=%2361DAFB"></a></p>
+<p><a href="https://ude.my/UC-7cf400fe-c389-4647-a04d-2ee1ef067562" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></p>
+<p><a href="https://www.linkpicture.com/q/ITI-certification.jpg" target="_blank"><img src="https://img.shields.io/badge/MEAN_stack-%2320232a.svg?style=for-the-badge&logo=web&logoColor=%2361DAFB"></a></p>
 
 
 <!--
