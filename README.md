@@ -18,7 +18,8 @@ HTML5
 </p>
 
 <h2>Skills I'm working on now 🌟🎯💡</h2>
-<p align="center">Pugjs && Gulpjs && Unit Testing (jest)</p>
+<p align="center">JavaScript - The Complete Guide 2023 (Beginner + Advanced) - Udemy</p>
+<p align="center">Unit Testing (jest) && Pugjs && Gulpjs</p>
 
 <h2>CERTIFICATIONS 🎖️🏆👨</h2>
 <!-- <div align = "center">
