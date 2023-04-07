@@ -15,6 +15,7 @@ HTML5
 & React Redux && Redux toolkit
 & React Router (v5 & v6)
 & NextJS
+& ChatGPT
 </p>
 
 <h2>Skills I'm working on now 🌟🎯💡</h2>
