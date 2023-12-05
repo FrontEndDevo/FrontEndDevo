@@ -30,7 +30,7 @@ HTML5
 
 <table align = "center">
   <tr>
-    <td><a href="https://www.udemy.com/certificate/UC-5d7f8b4c-536f-4b9a-b93c-d44ab49ff4dd/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></td>
+    <td><a href="https://www.udemy.com/certificate/UC-5d7f8b4c-536f-4b9a-b93c-d44ab49ff4dd/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a></td>
     <td><a href="https://ude.my/UC-7cf400fe-c389-4647-a04d-2ee1ef067562" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a></td>
     <td><a href="https://www.linkpicture.com/q/ITI-certification.jpg" target="_blank"><img src="https://img.shields.io/badge/MEAN_stack-%2320232a.svg?style=for-the-badge&logo=web&logoColor=%2361DAFB"></a></td>
   </tr>
