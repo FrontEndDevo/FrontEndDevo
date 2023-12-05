@@ -16,6 +16,7 @@ HTML5
 & React Router (v5 & v6)
 & NextJS
 & ChatGPT
+& Bard
 </p>
 
 <h2>Skills I'm working on now 🌟🎯💡</h2>
