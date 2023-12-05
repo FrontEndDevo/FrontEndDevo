@@ -9,9 +9,9 @@ HTML5
 & SASS (SCSS)
 & Bootstrap5
 & TailwindCSS3
-& Javascript 
+& Javascript (JavaScript - The Complete Guide 2023 (Beginner + Advanced) - Udemy)
 & Typescript
-& ReactJS
+& ReactJS (React - The Complete Guide (incl. React Router & Redux) - Udemy)
 & React Redux && Redux toolkit
 & React Router (v5 & v6)
 & NextJS
@@ -19,7 +19,6 @@ HTML5
 </p>
 
 <h2>Skills I'm working on now 🌟🎯💡</h2>
-<p align="center">JavaScript - The Complete Guide 2023 (Beginner + Advanced) - Udemy</p>
 <p align="center">GraphQL && Unit Testing (jest) && Pugjs && Gulpjs</p>
 
 <h2>CERTIFICATIONS 🎖️🏆👨</h2>
