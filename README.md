@@ -9,7 +9,7 @@ HTML5
 & SASS (SCSS)
 & Bootstrap5
 & TailwindCSS3
-& Javascript (JavaScript - The Complete Guide 2023 (Beginner + Advanced) - Udemy)
+& Javascript (JavaScript - The Complete Guide (Beginner + Advanced) - Udemy)
 & Typescript
 & ReactJS (React - The Complete Guide (incl. React Router & Redux) - Udemy)
 & React Redux && Redux toolkit
