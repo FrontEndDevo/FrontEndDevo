@@ -9,18 +9,21 @@ HTML5
 & SASS (SCSS)
 & Bootstrap5
 & TailwindCSS3
+& Flowbite-react
+& Shadcn UI
 & Javascript (JavaScript - The Complete Guide (Beginner + Advanced) - Udemy)
 & Typescript
 & ReactJS (React - The Complete Guide (incl. React Router & Redux) - Udemy)
-& React Redux && Redux toolkit
+& React Redux && Redux toolkit (RTK)
 & React Router (v5 & v6)
 & NextJS
-& ChatGPT
+& React Hook Form
+& Zod Validation
 & Github Copilot
 </p>
 
 <h2>Skills I'm working on now 🌟🎯💡</h2>
-<p align="center">GraphQL && Unit Testing (jest) && Pugjs && Gulpjs</p>
+<p align="center">Unit Testing (jest) && Vue.js</p>
 
 <h2>CERTIFICATIONS 🎖️🏆👨</h2>
 <!-- <div align = "center">
