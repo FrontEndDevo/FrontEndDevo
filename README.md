@@ -15,6 +15,7 @@ HTML5
 & Typescript
 & ReactJS (React - The Complete Guide (incl. React Router & Redux) - Udemy)
 & React Redux && Redux toolkit (RTK)
+& Tanstack React Query
 & React Router (v5 & v6)
 & NextJS
 & React Hook Form
